@@ -11,6 +11,7 @@ namespace Episkaaplikacijagidhubtrenins
         static void Main(string[] args)
         {
             Console.WriteLine("Cau no Mragususa\n");
+            Console.WriteLine("Cio no tava labākā drauga, Stivena!\n");
         }
     }
 }
